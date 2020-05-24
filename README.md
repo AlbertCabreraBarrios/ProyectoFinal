@@ -20,12 +20,12 @@ El modelo original de PoseNet fue portado a TensorFlow.js por Dan Oved. Para obt
 A continuación se muestra un ejemplo del uso de PoseNet
 
 
+[![UsandoPoseNet](/Imagen/imagen1.png)](/Imagen/imagen1.png)
 
-[![UsandoPoseNet](/Imagen/2020-05-23(1).png)](/Imagen/2020-05-23(1).png)
-
-[![UsandoPoseNet](/Imagen/2020-05-23(2).png)](/Imagen/2020-05-23(2).png)
+[![UsandoPoseNet](/Imagen/imagen2.png)](/Imagen/imagen2.png)
 
 [![UsandoPoseNet](/Imagen/2020-05-23.png)](/Imagen/2020-05-23.png)
+
 
 
 
