@@ -17,6 +17,13 @@ PoseNet se puede usar para estimar una sola pose o múltiples poses, lo que sign
 
 El modelo original de PoseNet fue portado a TensorFlow.js por Dan Oved. Para obtener más información, lea Estimación de pose humana en tiempo real en el navegador con TensorFlow.js .
 
+uSANDO  FACE TRACKING
+[![UsandoPoseNet](/Imagen/imagen5.png)](/Imagen/imagen1.png)
+
+[![UsandoPoseNet](/Imagen/imagen3.png)](/Imagen/imagen2.png)
+
+
+
 A continuación se muestra un ejemplo del uso de PoseNet
 
 
@@ -29,4 +36,5 @@ A continuación se muestra un ejemplo del uso de PoseNet
 
 
 
-
+! 4de44b85fd6f0d800d2bcaad23e08da0c3aa33f9   ! Primera entrega 
+! 22b25cd2993cf021efc0068fd2f7b162c4631d321  ! Primera entrega
